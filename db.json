@@ -1,0 +1,168 @@
+{
+    "recipes":[
+        {
+            "id": 1,
+            "title": "Panqueca doce",
+            "route": "panqueca-doce",
+            "type": "Doce",
+            "image": "./src/assets/recipes/pancake.jpg",
+            "alt": "Foto de Panqueca doce",
+            "time": "20 minutos",
+            "portions": 10,
+            "ingredient": [
+                "1 xícara de chá de farinha de trigo",
+                "2 colheres de sopa de manteiga derretida",
+                "1 colher de sopa de fermento em pó",
+                "1 colher de chá de sal",
+                "1 xícara de chá de leite",
+                "2 colheres de sopa de açúcar",
+                "1 ovo"
+            ],
+            "prepare": [
+                "Bata os ovos levemente, junte o leite e a manteiga e o açúcar",
+                "Adicione a farinha de trigo, o fermento (se a farinha já não conter) e o sal. Note que vai ficar um pouco espessa, o que é normal para este tipo de panqueca",
+                "Modele as panquecas em uma frigideira antiaderente untada com manteiga",
+                "Sirva com mel, geleia, frutas ou iogurte"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Bolo de cenoura",
+            "route": "bolo-cenoura",
+            "type": "Doce",
+            "image": "./src/assets/recipes/cake.jpg",
+            "alt": "Foto de bolo de cenoura",
+            "time": "40 minutos",
+            "portions": 8,
+            "ingredient": [
+                "1/2 xícara (chá) de óleo",
+                "4 ovos",
+                "2 e 1/2 xícaras (chá) de farinha de trigo",
+                "3 cenouras médias raladas",
+                "2 xícaras (chá) de açúcar",
+                "1 colher (sopa) de fermento em pó",
+                "1 colher (sopa) de manteiga",
+                "1 xícara (chá) de açúcar",
+                "3 colheres (sopa) de chocolate em pó",
+                " xícara (chá) de leite"
+            ],
+            "prepare": [
+                "Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture",
+                "Acrescente o açúcar e bata novamente por 5 minutos",
+                "Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente",
+                "Acrescente o fermento e misture lentamente com uma colher",
+                "Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos",
+                "Para cobertura - Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture. Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Caldo de abóbora",
+            "route": "caldo-abobora",
+            "type": "Salgada",
+            "image": "./src/assets/recipes/broth.jpg",
+            "alt": "Foto de caldo de abóbora",
+            "time": "30 minutos",
+            "portions": 1,
+            "ingredient": [
+                "½ abóbora japonesa",
+                "1 cenoura",
+                "1 cebola",
+                "1 colher de sopa de manteiga",
+                "Sal",
+                "Pimenta",
+                "Azeite"
+            ],
+            "prepare": [
+                "Corte a abóbora e a cenoura em cubos",
+                "Leve-os para o cesto da Air Fryer Mondial, junte também a cebola cortada",
+                "Tempere com azeite, sal e pimenta",
+                "Programe para contar 20 minutos a 180ºC",
+                "Coloque os legumes no liquidificador e comece a bater",
+                "Junte a água aos poucos até dar o ponto desejado e por fim, adicione a manteiga"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Brownie de café",
+            "route": "brownie-de-cafe",
+            "type": "Doce",
+            "image": "./src/assets/recipes/brownie.jpg",
+            "alt": "Foto de brownie de café",
+            "time": "40 minutos",
+            "portions": 10,
+            "ingredient": [
+                "2 tabletes de chocolate meio amargo",
+                "1/2 xícara (chá) de manteiga sem sal",
+                "1/2 xícara (chá) de açúcar refinado",
+                "4 ovos",
+                "1 xícara (chá) de farinha de trigo",
+                "1/2 xícara (chá) de chocolate em pó 50%",
+                "1 colher (sopa) de café solúvel forte",
+                "1/2 xícara (chá) de nozes picadas"
+            ],
+            "prepare": [
+                "Em um recipiente, adicione o chocolate meio amargo picado e a manteiga e leve para derreter em micro-ondas de 30 em 30 segundos. Misture bem até ficar homogêneo",
+                "Em seguida, ainda quente, adicione o café solúvel forte e misture mais uma vez",
+                "Em outro recipiente, adicione os ovos, o açúcar e bata com o batedor até ficar esbranquiçado",
+                "Em seguida, adicione a mistura de chocolate derretido com café. Misture e, depois, adicione a farinha de trigo peneirada e o chocolate em pó.",
+                "Transfira a massa para um recipiente refratário (30x20) untado e forrado com papel manteiga, acrescente as nozes picadas e leve ao forno a 180ºC, preaquecido, por cerca de 30 minutos ou até estar assado e craquelado em cima. Sirva"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Macarrão com molho branco",
+            "route": "macarrao-molho-branco",
+            "type": "Salgada",
+            "image": "./src/assets/recipes/pasta.jpg",
+            "alt": "Foto de macarrão com molho branco",
+            "time": "35 minutos",
+            "portions": 2,
+            "ingredient": [
+                "250 g de macarrão (tipo de sua preferência)",
+                "150 g de bacon em cubos",
+                "2 colheres (sopa) de manteiga",
+                "1 colher (chá) de sal",
+                "2 colheres (sopa) de farinha de trigo",
+                "500 ml de leite integral",
+                "1 lata de creme de leite"
+            ],
+            "prepare": [
+                "Em uma panela grande, ferva água com sal e cozinhe o macarrão conforme as instruções da embalagem. Escorra e reserve",
+                "Em uma frigideira, frite os cubos de bacon até ficarem dourados e crocantes. Retire o bacon da frigideira e reserve",
+                "Na mesma frigideira onde fritou o bacon, aqueça a manteiga em fogo baixo",
+                "Quando começar a derreter, junte a farinha de trigo e deixe dourar, mexendo sempre",
+                "Quando adquirir a consistência de massa, coloque o leite aos poucos, misturando vigorosamente para não formar grumos",
+                "Adicione o creme de leite e o sal e misture bem. Aqueça sem deixar ferver",
+                "Em seguida, misture o macarrão cozido com o molho branco e metade do bacon frito",
+                "Coloque o macarrão com molho em pratos individuais. Por cima, polvilhe o restante do bacon frito para decorar e sirva!"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Crepioca",
+            "route": "crepioca",
+            "type": "Salgada",
+            "image": "./src/assets/recipes/crepioca.jpg",
+            "alt": "Foto de Crepioca",
+            "time": "10 minutos",
+            "portions": 1,
+            "ingredient": [
+                "1 ovo",
+                "2 colheres de sopa de tapioca",
+                "1 pitada de sal rosa",
+                "1 fio de azeite de oliva",
+                "1 fatia de queijo mussarela",
+                "1 colher de sopa de tomate picadinho",
+                "Orégano a gosto"
+            ],
+            "prepare": [
+                "Reúna todos os ingredientes",
+                "Em um recipiente, misture o ovo, a tapioca e o sal",
+                "Em uma frigideira, aqueça o azeite, despeje a mistura de ovo e tapioca e deixe cozinhar até começar soltando do fundo da frigideira, vire e doure o outro lado",
+                "Adicione o queijo, o tomate e o orégano, tampe a frigideira e cozinhe por 1 a 2 minutos",
+                "Depois do tempo necessário, dobre a crepioca ao meio e acomode em um prato. Sirva essa delícia e bom apetite!"
+            ]
+        }
+    ]
+}

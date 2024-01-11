@@ -1,0 +1,24 @@
+{
+    "menuFilters":[
+        {
+            "id": 1,
+            "type": "Home",
+            "route": "/"
+        },
+        {
+            "id": 2,
+            "type": "Receitas",
+            "route": "/receitas"
+        },
+        {
+            "id": 3,
+            "type": "Salgadas",
+            "route": "/salgadas"
+        },
+        {
+            "id": 4,
+            "type": "Doces",
+            "route": "/doces"
+        }
+    ]
+}
