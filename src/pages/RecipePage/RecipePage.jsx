@@ -1,12 +1,18 @@
-import { useParams } from "react-router-dom"
-import { useRef } from "react"
+import { useNavigate, useParams } from "react-router-dom"
+import { useEffect, useRef } from "react"
 import SugestionCard from "../../components/SugestionCard/SugestionCard"
 import { RecipeItemContainer, RecipePageContainer } from "./RecipePage.style"
 import { SugestionCardContainer } from "../Recipes/Recipes.style"
 
 const RecipePage = ({recipes}) => {
+    const navigate = useNavigate()
     const params = useParams()
     const recipeFull = useRef(recipes[params.id - 1])
+
+    useEffect(()=>{
+        let paramRoute = params.route
+        if (params.route !== routeExists) navigate(`/receitas/${paramRoute}`)
+    })
 
     return (
         <RecipePageContainer>
