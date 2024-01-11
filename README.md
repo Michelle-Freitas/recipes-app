@@ -2,7 +2,7 @@
 
 Página de receitas simples criada para estudo de React.js com uso de react-router-dom para uma aplicação com rotas para receitas, receitas doces, receitas salgadas e receita específica, com barra de pesquisa com caixa dos resultados encontrados.<br/>
 
-[Visite a página Delicious Receitas](url)
+[Visite a página Delicious Receitas](https://delicius-recipes-app.netlify.app/)
 
 ### Imagem da HOME
 <img alt="Imagem da home" src="./public/index.png">
