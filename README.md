@@ -25,6 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React.js / Vite
 - React Icons
-- React-router-dom (v.6)
+- React-router-dom (v6)
 - StyledComponents
 - JSON
