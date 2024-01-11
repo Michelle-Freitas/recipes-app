@@ -11,7 +11,7 @@ import NotFound from './pages/NotFound/NotFound';
 import Footer from './components/Footer/Footer';
 
 const AppRouter = () => {
-    const sugestion = [recipes.recipes[0], recipes.recipes[2], recipes.recipes[3]]
+    const sugestion = [recipes.recipes[1], recipes.recipes[2], recipes.recipes[5]]
     const recipesList = recipes.recipes
     const [saltRecipesList, setSaltRecipesList] = useState([])
     const [sweetieRecipesList, setSweetieRecipesList] = useState([])

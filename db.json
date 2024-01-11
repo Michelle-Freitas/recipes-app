@@ -2,31 +2,6 @@
     "recipes":[
         {
             "id": 1,
-            "title": "Panqueca doce",
-            "route": "panqueca-doce",
-            "type": "Doce",
-            "image": "recipes/pancake.jpg",
-            "alt": "Foto de Panqueca doce",
-            "time": "20 minutos",
-            "portions": 10,
-            "ingredient": [
-                "1 xícara de chá de farinha de trigo",
-                "2 colheres de sopa de manteiga derretida",
-                "1 colher de sopa de fermento em pó",
-                "1 colher de chá de sal",
-                "1 xícara de chá de leite",
-                "2 colheres de sopa de açúcar",
-                "1 ovo"
-            ],
-            "prepare": [
-                "Bata os ovos levemente, junte o leite e a manteiga e o açúcar",
-                "Adicione a farinha de trigo, o fermento (se a farinha já não conter) e o sal. Note que vai ficar um pouco espessa, o que é normal para este tipo de panqueca",
-                "Modele as panquecas em uma frigideira antiaderente untada com manteiga",
-                "Sirva com mel, geleia, frutas ou iogurte"
-            ]
-        },
-        {
-            "id": 2,
             "title": "Bolo de cenoura",
             "route": "bolo-cenoura",
             "type": "Doce",
@@ -53,6 +28,33 @@
                 "Acrescente o fermento e misture lentamente com uma colher",
                 "Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos",
                 "Para cobertura - Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture. Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Brownie de café",
+            "route": "brownie-de-cafe",
+            "type": "Doce",
+            "image": "recipes/brownie.jpg",
+            "alt": "Foto de brownie de café",
+            "time": "40 minutos",
+            "portions": 10,
+            "ingredient": [
+                "2 tabletes de chocolate meio amargo",
+                "1/2 xícara (chá) de manteiga sem sal",
+                "1/2 xícara (chá) de açúcar refinado",
+                "4 ovos",
+                "1 xícara (chá) de farinha de trigo",
+                "1/2 xícara (chá) de chocolate em pó 50%",
+                "1 colher (sopa) de café solúvel forte",
+                "1/2 xícara (chá) de nozes picadas"
+            ],
+            "prepare": [
+                "Em um recipiente, adicione o chocolate meio amargo picado e a manteiga e leve para derreter em micro-ondas de 30 em 30 segundos. Misture bem até ficar homogêneo",
+                "Em seguida, ainda quente, adicione o café solúvel forte e misture mais uma vez",
+                "Em outro recipiente, adicione os ovos, o açúcar e bata com o batedor até ficar esbranquiçado",
+                "Em seguida, adicione a mistura de chocolate derretido com café. Misture e, depois, adicione a farinha de trigo peneirada e o chocolate em pó.",
+                "Transfira a massa para um recipiente refratário (30x20) untado e forrado com papel manteiga, acrescente as nozes picadas e leve ao forno a 180ºC, preaquecido, por cerca de 30 minutos ou até estar assado e craquelado em cima. Sirva"
             ]
         },
         {
@@ -84,29 +86,28 @@
         },
         {
             "id": 4,
-            "title": "Brownie de café",
-            "route": "brownie-de-cafe",
-            "type": "Doce",
-            "image": "recipes/brownie.jpg",
-            "alt": "Foto de brownie de café",
-            "time": "40 minutos",
-            "portions": 10,
+            "title": "Crepioca",
+            "route": "crepioca",
+            "type": "Salgada",
+            "image": "recipes/crepioca.jpg",
+            "alt": "Foto de Crepioca",
+            "time": "10 minutos",
+            "portions": 1,
             "ingredient": [
-                "2 tabletes de chocolate meio amargo",
-                "1/2 xícara (chá) de manteiga sem sal",
-                "1/2 xícara (chá) de açúcar refinado",
-                "4 ovos",
-                "1 xícara (chá) de farinha de trigo",
-                "1/2 xícara (chá) de chocolate em pó 50%",
-                "1 colher (sopa) de café solúvel forte",
-                "1/2 xícara (chá) de nozes picadas"
+                "1 ovo",
+                "2 colheres de sopa de tapioca",
+                "1 pitada de sal rosa",
+                "1 fio de azeite de oliva",
+                "1 fatia de queijo mussarela",
+                "1 colher de sopa de tomate picadinho",
+                "Orégano a gosto"
             ],
             "prepare": [
-                "Em um recipiente, adicione o chocolate meio amargo picado e a manteiga e leve para derreter em micro-ondas de 30 em 30 segundos. Misture bem até ficar homogêneo",
-                "Em seguida, ainda quente, adicione o café solúvel forte e misture mais uma vez",
-                "Em outro recipiente, adicione os ovos, o açúcar e bata com o batedor até ficar esbranquiçado",
-                "Em seguida, adicione a mistura de chocolate derretido com café. Misture e, depois, adicione a farinha de trigo peneirada e o chocolate em pó.",
-                "Transfira a massa para um recipiente refratário (30x20) untado e forrado com papel manteiga, acrescente as nozes picadas e leve ao forno a 180ºC, preaquecido, por cerca de 30 minutos ou até estar assado e craquelado em cima. Sirva"
+                "Reúna todos os ingredientes",
+                "Em um recipiente, misture o ovo, a tapioca e o sal",
+                "Em uma frigideira, aqueça o azeite, despeje a mistura de ovo e tapioca e deixe cozinhar até começar soltando do fundo da frigideira, vire e doure o outro lado",
+                "Adicione o queijo, o tomate e o orégano, tampe a frigideira e cozinhe por 1 a 2 minutos",
+                "Depois do tempo necessário, dobre a crepioca ao meio e acomode em um prato. Sirva essa delícia e bom apetite!"
             ]
         },
         {
@@ -140,28 +141,27 @@
         },
         {
             "id": 6,
-            "title": "Crepioca",
-            "route": "crepioca",
-            "type": "Salgada",
-            "image": "recipes/crepioca.jpg",
-            "alt": "Foto de Crepioca",
-            "time": "10 minutos",
-            "portions": 1,
+            "title": "Panqueca doce",
+            "route": "panqueca-doce",
+            "type": "Doce",
+            "image": "recipes/pancake.jpg",
+            "alt": "Foto de Panqueca doce",
+            "time": "20 minutos",
+            "portions": 10,
             "ingredient": [
-                "1 ovo",
-                "2 colheres de sopa de tapioca",
-                "1 pitada de sal rosa",
-                "1 fio de azeite de oliva",
-                "1 fatia de queijo mussarela",
-                "1 colher de sopa de tomate picadinho",
-                "Orégano a gosto"
+                "1 xícara de chá de farinha de trigo",
+                "2 colheres de sopa de manteiga derretida",
+                "1 colher de sopa de fermento em pó",
+                "1 colher de chá de sal",
+                "1 xícara de chá de leite",
+                "2 colheres de sopa de açúcar",
+                "1 ovo"
             ],
             "prepare": [
-                "Reúna todos os ingredientes",
-                "Em um recipiente, misture o ovo, a tapioca e o sal",
-                "Em uma frigideira, aqueça o azeite, despeje a mistura de ovo e tapioca e deixe cozinhar até começar soltando do fundo da frigideira, vire e doure o outro lado",
-                "Adicione o queijo, o tomate e o orégano, tampe a frigideira e cozinhe por 1 a 2 minutos",
-                "Depois do tempo necessário, dobre a crepioca ao meio e acomode em um prato. Sirva essa delícia e bom apetite!"
+                "Bata os ovos levemente, junte o leite e a manteiga e o açúcar",
+                "Adicione a farinha de trigo, o fermento (se a farinha já não conter) e o sal. Note que vai ficar um pouco espessa, o que é normal para este tipo de panqueca",
+                "Modele as panquecas em uma frigideira antiaderente untada com manteiga",
+                "Sirva com mel, geleia, frutas ou iogurte"
             ]
         }
     ]
