@@ -8,7 +8,8 @@ export const HomeContainer = styled.div`
     background-color: ${theme.colors.bg};
     width: 100vw;
     z-index: -1;
-    height: 100%;
+    height: 100vh;
+    max-height: 100%;
 
     @media screen and (max-width: 850px) { /*smartphone and tablet*/
         background-image: none;

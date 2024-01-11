@@ -7,7 +7,7 @@ import Home from './pages/Home/Home';
 import Menu from './components/Menu/Menu';
 import Recipes from './pages/Recipes/Recipes';
 import RecipePage from './pages/RecipePage/RecipePage';
-import NotFound from './pages/notFound/notFound';
+import NotFound from './pages/NotFound/NotFound';
 import Footer from './components/Footer/Footer';
 
 const AppRouter = () => {
